@@ -1,0 +1,143 @@
+body{
+    background-color: #424242;
+    color: #cccaca;
+    font-family: sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    color: gold;
+    text-underline-offset: 2px;
+}
+p{
+    line-height: 1.5;
+}
+li{
+    line-height: 1.5;
+}
+.mainheader{
+    background-color: #504b4b;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.mainheader a{
+    text-decoration: none;
+}
+.mainheaderlogoimg{
+    width: 180px;
+    height: 55px;
+    margin-right: 20px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.mainheadertext{
+    color: blanchedalmond;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 15px;
+    text-shadow: black 2px 2px 2px;
+}
+.topnav{
+    overflow: hidden;
+}
+.topnav, .mainheader{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.topnav a:hover{
+    background-color: black;
+}
+.menubutton{
+    color: gold;
+    padding: 14px 20px;
+    display: block;
+    float: left;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.mainheader, .menubutton{
+    border-collapse: collapse;
+}
+.active{
+    background-color: #665700;
+}
+.subheader{
+    color: blanchedalmond;
+    text-shadow: black 2px 2px 2px;
+}
+.missionsection{
+    display: block;
+    float: left;
+    width: 900px;
+    padding-left: 10px;
+    padding-right: 75px;
+    padding-bottom: 200px;
+    border-right: 3px solid black;
+}
+.missiontext{
+    text-indent: 20px;
+}
+.latestnewssection{
+    display: block;
+    float: left;
+    width: 400px;
+    padding-left: 30px;
+    padding-right: 10px;
+    position: relative;
+    bottom: 20px;
+}
+.latestnewslist{
+    margin-left: -40px;
+}
+.facultysection{
+    margin-left: 10px;
+}
+.facultylistitem{
+    width: 1000px;
+    border: 1px solid silver;
+    border-collapse: collapse;
+    display: inline-block;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.facultyimagenull{
+    width: 75px;
+    height: 75px;
+    float: left;
+    margin: 30px 35px 60px 30px;
+    border: 1px solid black;
+}
+.facultyimage{
+    width: 120px;
+    height: 85px;
+    float: left;
+    margin: 30px 10px 60px 10px;
+    border: 1px solid black;
+}
+#svandev{
+    white-space: nowrap;
+}
+.eventssection{
+    margin-left: 10px;
+}
+.eventstable{
+    float: center;
+}
+.eventstable, th, td{
+    align-items: center;
+    padding: 10px;
+    border: 2px solid silver;
+    border-collapse: collapse;
+}
+.eventstable th{
+    padding: 10px;
+}
+.tablecaption{
+    color: blanchedalmond;
+    text-shadow: black 1px 1px 1px;
+    margin-bottom: 10px;
+}
