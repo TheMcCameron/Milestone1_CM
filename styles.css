@@ -141,6 +141,9 @@ li{
     text-shadow: black 1px 1px 1px;
     margin-bottom: 10px;
 }
+.descriptionsection{
+    margin-left: 20px;
+}
 .displayevaluationblock{
     margin-left: 40px;
 }
