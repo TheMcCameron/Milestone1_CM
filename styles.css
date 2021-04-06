@@ -141,3 +141,13 @@ li{
     text-shadow: black 1px 1px 1px;
     margin-bottom: 10px;
 }
+.applySection{
+    margin-left: 10px;
+}
+.applyDescriptionText{
+    text-indent: 20px;
+}
+.studentStatusSelect{
+    margin-left: 20px;
+    color: blanchedalmond;
+}
