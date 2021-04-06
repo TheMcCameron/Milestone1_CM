@@ -141,13 +141,16 @@ li{
     text-shadow: black 1px 1px 1px;
     margin-bottom: 10px;
 }
-.applySection{
-    margin-left: 10px;
+.displayevaluationblock{
+    margin-left: 40px;
 }
-.applyDescriptionText{
-    text-indent: 20px;
+#gpadisplaylabel{
+    display: inline;
 }
-.studentStatusSelect{
-    margin-left: 20px;
-    color: blanchedalmond;
+#gpadisplayer{
+    display: inline;
+}
+#applybutton{
+    margin-top: 20px;
+    display: block;
 }

@@ -176,6 +176,4 @@ function deliverEvalResult(finalGPA)
         disableButton('applybutton');
     }
 }
-
-
 //#endregion
